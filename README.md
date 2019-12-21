@@ -1,4 +1,4 @@
-# Docker
+# Project Docker
 Designing a Python Script to get details of the Files present in a Directory.
 First Step is to Create and Launch a Docker Container and Install Python in your virtual machine so that the Code which We write in Python gets executed with the help of the Docker Container.
 There are certain text file present in a given location (Change the location in the script according to the location where your files are present).
